@@ -8,4 +8,4 @@ Este projeto foi feito com base na formação "A partir do zero: iniciante em pr
 
 ## 📚 Objetivo da publicação desse projeto
 
-Tem como objetivo me desafiar a fazer um "readme" do zero, e mostrar como foi meu aprendizado e a minha evolução para projetos futuros 
+Tem como objetivo me desafiar a fazer uma publicação no github do zero, e mostrar meu estudo e como foi meu aprendizado e a minha evolução para projetos futuros
